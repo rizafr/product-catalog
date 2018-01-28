@@ -35,6 +35,7 @@ class ProductList extends Component {
               name={productData.name}
               image={productData.image}
               price={productData.price}
+              size={productData.size}
             />
           </Link>
         </div>

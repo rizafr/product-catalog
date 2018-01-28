@@ -1,10 +1,10 @@
 [
   {
     "id": "41968102-45c2-40d1-a7d4-2005e2937ab0",
-    "name": "Cosiena Brukat Peplum Mini Dress",
+    "name": "Zeomila Zipper Casual Blouse",
     "description":
       "Jacket in sweatshirt fabric with a lined drawstring hood, zip down the front, side pockets and ribbing at the cuffs and hem. Regular fit.",
-    "image": "https://placeimg.com/640/480/people",
+    "image": "https://ss-imager-prod.freetls.fastly.net/www-images/480/product_images/cd11ba9657a8b5aeb890e8083965c1d7.jpg",
     "size": ["S", "M", "XL"],
     "color": ["#fff", "#000"],
     "price": 150000,
@@ -12,24 +12,24 @@
   },
   {
     "id": "72aaff26-d8be-424f-8c76-08142a128772",
-    "name": "Cosiena Brukat Peplum High Dress",
+    "name": "Nexilza Plain Trump Blouse",
     "description":
       "Jacket in sweatshirt fabric with a lined drawstring hood, zip down the front, side pockets and ribbing at the cuffs and hem. Regular fit.",
-    "image": "https://placeimg.com/640/480/people",
+    "image": "https://ss-imager-prod.freetls.fastly.net/www-images/480/product_images/151a65943af9d7729c385476ac549532.jpg",
     "size": ["S", "M", "XL"],
     "color": ["#fff", "#000"],
-    "price": 150000,
+    "price": 98000,
     "materials": "70% cotton, 30% polyester"
   },
   {
     "id": "e83acb77-9324-4891-b3a4-7eb475869fb9",
-    "name": "Cosiena Brukat Peplum Dress",
+    "name": "Rhasyila Plain Flare Blouse",
     "description":
       "Jacket in sweatshirt fabric with a lined drawstring hood, zip down the front, side pockets and ribbing at the cuffs and hem. Regular fit.",
-    "image": "https://placeimg.com/640/480/people",
+    "image": "https://ss-imager-prod.freetls.fastly.net/www-images/480/product_images/545c0d12b4541291b58a151ac2c0d3ca.jpg",
     "size": ["S", "M", "XL"],
     "color": ["#fff", "#000"],
-    "price": 150000,
+    "price": 89000,
     "materials": "70% cotton, 30% polyester"
   }
 ]

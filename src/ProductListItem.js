@@ -12,6 +12,7 @@ const ProductListItem = props => {
       <div className="card-section">
         <h3 className="card-product-name">{props.name}</h3>
         <h5 className="card-product-price">Rp {props.price}</h5>
+        <h5 className="card-product-size">{props.size}</h5>
       </div>
 
       <Route path={'/product/' + props.id} component={ProductListItem} />
